@@ -1,5 +1,12 @@
 # Deliverable 1: Data Collection, Cleaning, and Exploration
 
+# GROUP MEMEBERS:
+Name:Nischal Pokharel
+Name:Swarna Anjani
+Name:Vishnu Mallam
+Name:Tejeswar Reddy Chemikala
+Name:Shyam Nath
+
 ## Dataset Summary
 
 This project uses the Stroke Prediction Dataset from Kaggle. I chose this dataset because it is rich with both clinical and demographic features, making it perfect for data mining tasks like classification, EDA, and predictive modeling. The dataset contains 5,110 records and 11 attributes, including both demographic and health-related features. The target variable is `stroke`, which indicates whether a patient has experienced a stroke (1 = Yes, 0 = No).
